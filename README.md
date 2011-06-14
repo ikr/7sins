@@ -8,7 +8,6 @@
 6. Randomizing the input
 7. Treating unit testing as religion
 
-# Links
+# See also
 
-1. [Video of the talk](http://vimeo.com) — coming soon
-2. [My way to test-driven programming](http://ikr.posterous.com/quantum-leap-no2-or-why-test-driven-developme)
+[My way to test-driven programming](http://ikr.posterous.com/quantum-leap-no2-or-why-test-driven-developme)
