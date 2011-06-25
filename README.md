@@ -10,4 +10,7 @@
 
 # See also
 
-[My way to test-driven programming](http://ikr.posterous.com/quantum-leap-no2-or-why-test-driven-developme)
+[Video](http://vimeo.com/25572899) of this talk, recorded ex post facto
+
+[My way](http://ikr.posterous.com/quantum-leap-no2-or-why-test-driven-developme) to test-driven
+programming
